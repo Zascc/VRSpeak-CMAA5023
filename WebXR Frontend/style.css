@@ -1,0 +1,7 @@
+#audio-buttons-container{
+    z-index: 100;
+    position: absolute;
+    top: calc(50% - 300px);
+    left: calc(50% - 50px);
+}
+
